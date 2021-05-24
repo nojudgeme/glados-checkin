@@ -3,7 +3,7 @@ import requests ,os
 sever = 'on'
 # 填写server酱sckey,不开启server酱则不用填（自己更改）
 sckey = 'SCU89402Tf98b7f01ca3394b9ce9aa5e2ed1a****************'
-# 填入glados账号对应cookie
+# 填入glados账号对应cookie 
 cookie = '__cfduid=d825014ac33b402b3f**************'
 referer = 'https://glados.rocks/console/checkin'
 
